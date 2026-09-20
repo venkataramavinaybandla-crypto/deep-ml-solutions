@@ -1,3 +1,5 @@
+[![My ML fingerprint on Deep-ML](https://www.deep-ml.com/api/badge/venkataramavinaybandla-crypto.svg?repo=deep-ml-solutions&t=TNIr9G4Vk1h6kA)](https://venkataramavinaybandla-crypto.github.io/deep-ml-solutions/)
+
 # Deep-ML
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
