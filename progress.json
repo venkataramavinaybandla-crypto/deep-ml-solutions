@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:35:34.934Z",
+  "generated_at": "2026-09-24T16:58:47.893Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -128,6 +128,19 @@
       "path": "problems/0008-calculate-2x2-matrix-inverse",
       "first_solved_at": "2026-09-23T17:35:12.315Z",
       "last_pushed_at": "2026-09-23T17:35:12.315Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-09-24T16:58:46.409Z",
+      "last_pushed_at": "2026-09-24T16:58:46.409Z",
       "language": "python",
       "lines": 24
     }
